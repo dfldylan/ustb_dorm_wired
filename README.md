@@ -13,5 +13,7 @@ Windows 10
 
 # 用法
 首先需要买一根路由器console线，将路由器console口连接电脑，在电脑上操作
+
 运行router.py即可
+
 建议把router.bat挂到系统启动项，该守护脚本每十分钟运行一次router.bat
